@@ -1,0 +1,7 @@
+{
+  "name": "Immobiliare AI Voice Agent",
+  "description": "An Italian Real Estate Voice Assistant using Gemini 2.5 Live API with Function Calling simulation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
